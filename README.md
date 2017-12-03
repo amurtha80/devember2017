@@ -19,3 +19,13 @@ Read through the following content:
 
 
 ### 2017-12-02
+Went through the following lesons (related to conditionals):
+1:  Else-Statements
+2:  Else-if (Elif) Statements
+3:  Switch Statements Workaround
+4:  Inline-if Statements
+
+Also Completed a Conditional Truth Table Challenge from the lessons
+
+
+### 2017-12-03

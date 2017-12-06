@@ -5,6 +5,13 @@ I, Andy Murtha, will participate to the next Devember. My Devember will be to le
 
 https://devember.org
 
+### 2017-12-06
+Went through the following lessons (related to input)
+1: Input from user
+2: Using data input from user
+
+Was not successful with the Challenge for Lists (2017-12-05 lessons), I had to look at solution to get help, as I put a time limit on figuring the solution and I ran out of time. See code comments for notes.
+
 ### 2017-12-05
 Went through the following lessons (related to lists)
 1:  Lists, list order, and iterating through lists

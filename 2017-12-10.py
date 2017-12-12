@@ -48,20 +48,24 @@ else:
     print("All is good")
 
 #Solution Suggested by Proctor
-string = '1211f3'
+passed = '82914656273523:a4edFea2786DGex'
 
-def checkType(string):
-    string = str(string)
-    if(string.isdigit()):
-         return 'string is a Digit'
-    elif(string.isalnum()):
-        return 'String is Alpha Numeric'
-    elif(string ==  True or string == False):
-        return'String is boolean'
+data = passed.split(':')
+
+id = data[0]
+key = data[1]
+if(id.isdigit()):
+    # Number is numeric.
+    if(len(id) == 14):
+        #Length of 14
+        if(len(key) > 10 and len(key) < 20):
+            print('ID and Key are valid')
+        else:
+            print('Key Length isn\'t valid')
     else:
-        return 'unknown String type'
-    
-print(checkType(string))
+        print('ID wrong length')
+else:
+    print('ID isn\'t a digit')
 
 ##Commentary - I went bck into the lessons I am studying, and there is nothing
 ##regarding any pre-defined string functions that are in his suggested solution.

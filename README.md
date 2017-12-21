@@ -6,6 +6,17 @@ I, Andy Murtha, will participate to the next Devember. My Devember will be to le
 https://devember.org
 <hr>
 
+### 2017-12-21
+Basically the rails fell of after the snow in Atlanta... Or was it mercury in retrograde?  Anyways finally got back on track as of today. Already had Chapter 8 Lab Exercise complete and started on Chapter 9, Classes (worked on it Dec 11 - 12). Finished up the Chapter 9 lectures and examples today!!!
+
+Went through the following lessons (related to Classes)
+1:  Classes and Objects - Overview
+2:  Classes and Objects - Class function
+3:  Classes and Objects - Using Methods
+4:  Classes and Objects - Using Object Data
+5:  Classes and Objects - Using Inheritance
+<hr>
+
 ### 2017-12-10
 Cable and internet finally came back around dinner time today. At least there was lots of time to play in the snow with my 15 month old son this weekend :) Finished the challenge for pre-defined string functions. Ran into my second criticism of the Udemy course I am taking. Part of the solution was using string methods that we have not covered. Now, let me say that my Google Fu is strong, but throughout the course thus far, all challenges have expouded upon information that was provided during the lecture. I would rather learn how to do something than to rely on Google/Stackoverflow. 
 
@@ -13,6 +24,7 @@ Went through the following lessons (related to Custom Functions)
 1:  Functions - Syntax Overview
 2:  Functions - More on Parameters
 3:  Functions - More on Return
+<hr>
 
 ### 2017-12-09
 Power was out all night (thank goodness for gas fireplaces), did not get power back till late in the afternoon. No internet or cable still. Read through some more of "Automate the Boring Stuff with Python" on my phone. My wife is now looking for a car so I decided to start building a web scraper for AutoTrader. I am sure this has been done before so I Googled it on my phone and got some inspiration to start coding a solution for this on the local computer. Will git-commit my progress on that this week.

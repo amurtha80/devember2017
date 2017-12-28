@@ -89,7 +89,7 @@ alex.calculate()
 
 
 #Lesson 28 - File Handling (Opening Files)
-file = open('C:/Users/james/Documents/Python/Udemy_Python_for_Beginners/text.txt')
+file = open('text.txt')
 
 for line in file:
     #to avoid spacing between lines, use the end option as the print function uses
@@ -99,16 +99,16 @@ for line in file:
 
 #Lesson 29 - File Handling (Reading and Writing Text Files)
 ##There are other option for the open 2nd option, use help to explore    
-source = open('C:/Users/james/Documents/Python/Udemy_Python_for_Beginners/text.txt')
-output = open('C:/Users/james/Documents/Python/Udemy_Python_for_Beginners/output.txt', "w")
+source = open('text.txt')
+output = open('output.txt', "w")
 
 for line in source:
     print(line, file = output, end = '')
 
 
 buffersize = 100000
-input = open('C:/Users/james/Documents/Python/Udemy_Python_for_Beginners/bigfile.txt')
-output = open('C:/Users/james/Documents/Python/Udemy_Python_for_Beginners/newbigfile.txt', "w")
+input = open('bigfile.txt')
+output = open('newbigfile.txt', "w")
 buffer = input.read(buffersize)
 bufferlimit = 1000000
 
@@ -128,8 +128,8 @@ print('\n')
 
 #Lesson 30 - File Handling (Reading and Writing Binary Files)
 buffersize = 100000
-input = open('C:/Users/james/Documents/Python/Udemy_Python_for_Beginners/keyboard_bokeh.jpg', "rb")
-output = open('C:/Users/james/Documents/Python/Udemy_Python_for_Beginners/image2.jpg', "wb")
+input = open('keyboard_bokeh.jpg', "rb")
+output = open('image2.jpg', "wb")
 buffer = input.read(buffersize)
 
 ##will read jpeg file as binary and output to new file, exact same image

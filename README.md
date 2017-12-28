@@ -6,6 +6,15 @@ I, Andy Murtha, will participate to the next Devember. My Devember will be to le
 https://devember.org
 <hr>
 
+### 2017-12-27
+Trying to get some more commits in before the end of the month, while I am out on holiday vacation! Completed the Chapter 9 Lab Exercise. I attempted to use some of the more intermediate (?) class bits, like "kwargs" and read in multiple values from lists, but when I tried out calculate and output, I got errors. Something I think I want to spend some additional time with later to ensure that it works properly.
+
+Went through the following lessons (related to file handling)
+1:  File Handling - Opening Files
+2:  File Handling - Reading and Writing Text Files
+3:  File Handling - Reading and Writing Binary Files
+<hr>
+
 ### 2017-12-21
 Basically the rails fell of after the snow in Atlanta... Or was it mercury in retrograde?  Anyways finally got back on track as of today. Already had Chapter 8 Lab Exercise complete and started on Chapter 9, Classes (worked on it Dec 11 - 12). Finished up the Chapter 9 lectures and examples today!!!
 
